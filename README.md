@@ -6,9 +6,8 @@ Describe your app in a sentence or two.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
@@ -44,14 +43,6 @@ List the key features of your app.
 
 any contribution is welcome , if you see that something you can contribut with
 
-## Contact
-
-[![linkedin](C:\Users\Hiho0\Documents)](www.linkedin.com/in/younes-abounouh)
-<p align="center">
-  <a href="www.linkedin.com/in/younes-abounouh">
-    <img src="icons/linkedin.png" width="30" height="30">
-  </a>
-</p>
 
 
 
