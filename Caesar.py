@@ -4,7 +4,7 @@ from tkinter import messagebox
 from ctypes import *
 
 
-fun = CDLL("C:\\Users\\Hiho0\\Downloads\\src\\libfun.dll")
+fun = CDLL("C:\\Users\\Hiho0\\Documents\\Caesar_App\\src\\libfun.dll")
 
 fun.encryption.argtypes = [c_char_p, c_int]
 fun.encryption.restype = c_char_p
