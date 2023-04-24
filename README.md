@@ -1,4 +1,4 @@
-# Your App Name
+# Caesar app
 
 Describe your app in a sentence or two.
 
@@ -16,16 +16,16 @@ Describe your app in a sentence or two.
 `git clone https://github.com/gzynoah/Caesar_App.git`
 ### 2-Download python
 #### 2.1-(Linux)You can simply run this command :
-##### debien distros 
+#### debien distros 
 `apt install python`
-##### arch
-`pacman -S python`
+#### arch
+##### `pacman -S python`
 and if you are using other linux distros check your package manager and install python if you dont have it already installed in your mach
 #### 2.2(Windows)you can install python from its official website:
-`https://www.python.org/downloads/`
+##### `https://www.python.org/downloads/`
 make sure that you added python to the environment variables
 ### 3.run the python script:
-`python caesar.py`
+##### `python caesar.py`
 dont forget to check the current directory 
 
 
@@ -46,10 +46,14 @@ any contribution is welcome , if you see that something you can contribut with
 
 ## Contact
 
-[![linkedin](C:\Users\Hiho0\Documents)]()
+[![linkedin](C:\Users\Hiho0\Documents)](www.linkedin.com/in/younes-abounouh)
+<p align="center">
+  <a href="www.linkedin.com/in/younes-abounouh">
+    <img src="icons/linkedin.png" width="30" height="30">
+  </a>
+</p>
 
 
 
-## Acknowledgements
 
-If applicable, acknowledge anyone who provided inspiration or support during the development of your app.
+
