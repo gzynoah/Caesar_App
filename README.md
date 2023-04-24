@@ -1,6 +1,7 @@
 # Caesar app
+## About
 
-Describe your app in a sentence or two.
+Caesar app is an app that can encrypt and decrypt text using a number as a Key.
 
 ## Table of Contents
 
