@@ -12,8 +12,8 @@ Caesar app is an app that can encrypt and decrypt text using a number as a Key.
 
 ## Installation
 
-### 1'git cloned the repo :
-`git clone https://github.com/gzynoah/Caesar_App.git`
+### 1-git clone the repo :
+`git clone https://github.com/gzynoah/Caesar_App.git`if you don't have git Download it as a ZIP file
 ### 2-Download python
 #### 2.1-(Linux)You can simply run this command :
 #### debien distros 
