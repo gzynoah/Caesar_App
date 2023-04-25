@@ -1,3 +1,10 @@
+#######################################################
+# author : Youness abounouh 
+# aka : noah
+# this product is under GNU General Public License v3.0
+#######################################################
+
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
